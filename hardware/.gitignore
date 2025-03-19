@@ -29,3 +29,7 @@ fp-info-cache
 
 # Project backups
 SIM7600_Breakout-backups
+
+# Gerber outputs
+gerbers.zip
+gerbers/
