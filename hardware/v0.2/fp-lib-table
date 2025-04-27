@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "sim7600_breakout")(type "KiCad")(uri "${KIPRJMOD}/sim7600_breakout.pretty")(options "")(descr ""))
+)

@@ -8,6 +8,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: lamemakes/kicad-pics-action@5045339faa1118bdbe03f55307e08c2962b4f12e
         with:
-          project-path: 'hardware/v0.1/'
+          project-path: 'hardware/v0.2/'
           project-name: 'SIM7600_Breakout'
           output-path: 'pics/'
